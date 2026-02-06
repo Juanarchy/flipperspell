@@ -7,6 +7,7 @@ A Flipper Zero tool for collectible card games such as Flesh and Blood, Magic th
 ## Features
 - Vibration and sound options.
 - Vertical or Horizontal layout.
+- Editable starting life.
 - Track up to 4 life totals. (WIP)
 - Mana counter for MtG. (Planned)
 - Commander damage, poison, energy, experience, tax, and more! (Planned)
