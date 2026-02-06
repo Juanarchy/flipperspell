@@ -1,8 +1,15 @@
-# Lifecounter
+# Flipperspell
 
-A Flipper Zero life tracker for collectible card games such as Flesh and Blood, Magic the Gathering, Sorcery, Lorcana etc.
+A Flipper Zero tool for collectible card games such as Flesh and Blood, Magic the Gathering, Sorcery, Lorcana etc. Built from Lifecounter, inspired by Counterspell for mobile.
 
 ![Lifecounter](./screenshot.png)
+
+## Features
+- Vibration and sound options.
+- Vertical or Horizontal layout.
+- Track up to 4 life totals. (WIP)
+- Mana counter for MtG. (Planned)
+- Commander damage, poison, energy, experience, tax, and more! (Planned)
 
 ## Development setup
 
